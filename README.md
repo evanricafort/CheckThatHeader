@@ -1,6 +1,6 @@
 # CheckThatHeader
 
-A tool for checking **low hanging fruit** issues on headers using **wget** with a twist of **nmap**.
+A tool for checking **low hanging fruit** issues such as _Missing Content-Security-Policy, Permissions-Policy, Referrer-Policy, X-Content-Type-Options, Strict-Transport-Security and X-Frame-Options_ on headers using **wget** with a twist of **nmap**.
   
 # Installation
 
