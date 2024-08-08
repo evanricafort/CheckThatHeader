@@ -1,6 +1,6 @@
 #!/bin/bash
 # Title: CheckThatHeader
-# Description: A tool for checking low hanging fruit issues on headers using wget with a twist of nmap.
+# Description: A tool for checking low hanging fruit issues such as Missing Content-Security-Policy, Permissions-Policy, Referrer-Policy, X-Content-Type-Options, Strict-Transport-Security and X-Frame-Options on headers using wget with a twist of nmap.
 # Author: Evan Ricafort - https://evanricafort.com | X: @evanricafort
 
 # Define colors
