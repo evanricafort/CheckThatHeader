@@ -10,4 +10,4 @@ git clone https://github.com/evanricafort/CheckThatHeader.git && cd CheckThatHea
 
 # Usage
 
-Usage: ./checkthatheader.sh -u _<SINGLE_TARGET>_ | -t _<MULTIPLE_TARGET/SUBNET>_
+Usage: ./checkthatheader.sh **-u** _<SINGLE_TARGET>_ | **-t** _<MULTIPLE_TARGET/SUBNET>_
